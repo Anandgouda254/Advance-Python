@@ -7,5 +7,12 @@ colour shade output :
 
 retangle output :
 <img width="1396" height="890" alt="image" src="https://github.com/user-attachments/assets/190f1ba2-df5f-42b2-a1b5-a093b9855fe8" />
+
 image editing :
-![Uploading image.png…]()
+<img width="1728" height="876" alt="Screenshot 2026-07-28 152317" src="https://github.com/user-attachments/assets/1f3a1a21-a59c-4053-8664-219b1e92770f" />
+
+
+
+
+
+
